@@ -1,0 +1,82 @@
+{
+        "functions": 
+        [
+      		{
+       			"function": "h1",
+       			"iteration": 30,
+       			"graphfile": "/src/h1/graphs/experiments/cs1to6.txt",
+       			"beta": "/src/h1/parameters/dynamick2.txt",
+       			"word_dist": "/src/h1/distributions/prob_word.csv",
+       			"letter_req_dist": "/src/h1/distributions/prob_letterRequest.csv",
+       			"frac_rpl_dist": "/src/h1/distributions/prob_frac_rpl.csv",
+       			"time_rpl_dist": "/src/h1/distributions/prob_time_rpl.csv",
+        		"nodes": 6,
+        		"edges": 6,
+        		"timeSeconds":300,
+        		"seed_value":0,
+        		"experiment_id":"cs6",
+        		"players": [
+      			{
+      				"agent_id":0,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
+        			"initialLetters":"bat"
+      			},
+        		{
+      				"agent_id":1,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
+        			"initialLetters":"men"
+      			},
+        		{
+      				"agent_id":2,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
+        			"initialLetters":"lut"
+      			},
+        		{
+      				"agent_id":3,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
+        			"initialLetters":"sop"
+      			},
+        		{
+      				"agent_id":4,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
+        			"initialLetters":"hug"
+      			},
+        		{
+      				"agent_id":5,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
+        			"initialLetters":"rie"
+      			}
+      			]		
+      		}
+    	]
+}

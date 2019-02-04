@@ -1,0 +1,102 @@
+{
+        "functions": 
+        [
+      		{
+       			"function": "h1",
+       			"iteration": 1,
+       			"graphfile": "/src/h1/graphs/N10/circleN8L1.txt",
+       			"beta": "/src/h1/parameters/dynamick2.txt",
+       			"word_dist": "/src/h1/distributions/prob_word.csv",
+       			"letter_req_dist": "/src/h1/distributions/prob_letterRequest.csv",
+       			"frac_rpl_dist": "/src/h1/distributions/prob_frac_rpl.csv",
+       			"time_rpl_dist": "/src/h1/distributions/prob_time_rpl.csv",
+        		"nodes": 8,
+        		"edges": 7,
+        		"timeSeconds":300,
+        		"seed_value":0,
+        		"experiment_id":"5ydhsfg6",
+        		"players": [
+      			{
+      				"agent_id":0,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"abc"
+      			},
+        		{
+      				"agent_id":1,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"def"
+      			},
+        		{
+      				"agent_id":2,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"ghi"
+      			},
+        		{
+      				"agent_id":3,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"jkl"
+      			},
+        		{
+      				"agent_id":4,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"NR",
+        			"initialLetters":"abc"
+      			},
+        		{
+      				"agent_id":5,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"def"
+      			},
+        		{
+      				"agent_id":6,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"fgh"
+      			},
+        		{
+      				"agent_id":7,
+        			"corpus":"/src/h1/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"NFB",
+        			"initialLetters":"ijk"
+      			}
+      			]		
+      		}
+    	]
+}

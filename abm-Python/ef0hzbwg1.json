@@ -1,0 +1,112 @@
+{
+        "functions": 
+        [
+      		{
+       			"function": "h2",
+       			"iteration": 1,
+       			"graphfile": "/src/h2/graphs/experiments/ef0hzbwg1.txt",
+       			"beta": "/src/h2/parameters/dynamick2.txt",
+       			"word_dist": "/src/h2/distributions/prob_word.csv",
+       			"letter_req_dist": "/src/h2/distributions/prob_letterRequest.csv",
+       			"frac_rpl_dist": "/src/h2/distributions/prob_frac_rpl.csv",
+       			"time_rpl_dist": "/src/h2/distributions/prob_time_rpl.csv",
+        		"nodes": 8,
+        		"edges": 7,
+        		"timeSeconds":300,
+        		"seed_value":0,
+        		"experiment_id":"ef0hzbwg1",
+        		"action": "/src/h2/json_files/action.json",
+        		"phase": "/src/h2/json_files/phase.json",
+        		"players": [
+      			{
+      				"agent_id":0,
+        			"corpus":"/src/h2/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"est",
+        			"player_id": "fz8v2kfa"
+      			},
+        		{
+      				"agent_id":1,
+        			"corpus":"/src/h2/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"nas",
+        			"player_id": "hhi5zsnv"
+      			},
+        		{
+      				"agent_id":2,
+        			"corpus":"/src/h2/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"tna",
+        			"player_id": "74dfcjcf"
+      			},
+        		{
+      				"agent_id":3,
+        			"corpus":"/src/h2/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"NFB",
+        			"initialLetters":"rut",
+        			"player_id": "ji49zxof"
+      			},
+        		{
+      				"agent_id":4,
+        			"corpus":"/src/h2/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"dec",
+        			"player_id": "gcssnn1p"
+      			},
+        		{
+      				"agent_id":5,
+        			"corpus":"/src/h2/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"Mixed",
+        			"initialLetters":"ipu",
+        			"player_id": "vlt8kkgw"
+        		},
+        		{
+      				"agent_id":6,
+        			"corpus":"/src/h2/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"FB",
+        			"initialLetters":"ecr",
+        			"player_id": "7uore93c"
+        		},
+        		{
+      				"agent_id":7,
+        			"corpus":"/src/h2/parameters/5k.txt",
+        			"corpus_name":"5k",
+        			"vocabulary":5000,
+        			"aptitudeWord":0,
+        			"aptitudeLetterRequest":0,
+        			"letterReplyType":"NR",
+        			"initialLetters":"dui",
+        			"player_id": "c4bewd55"
+        		}
+      			]		
+      		}
+    	]
+}

@@ -1,0 +1,942 @@
+[
+  {
+    "phaseid": "5ydhsfg61",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 1,
+    "phaseorder": 1,
+    "begin": 1500666678.0,
+    "duration": 330,
+    "d": 2,
+    "n": 10
+  },
+  {
+    "phaseid": "5ydhsfg62",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 1,
+    "phaseorder": 2,
+    "begin": 1500667306.0,
+    "duration": 23,
+    "d": 0,
+    "n": 10
+  },
+  {
+    "phaseid": "gbwspag31",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 2,
+    "phaseorder": 1,
+    "begin": 1501084376.0,
+    "duration": 308,
+    "d": 2,
+    "n": 10
+  },
+  {
+    "phaseid": "gbwspag32",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 2,
+    "phaseorder": 2,
+    "begin": 1501085103.0,
+    "duration": 4972,
+    "d": 0,
+    "n": 10
+  },
+  {
+    "phaseid": "89ykytnu1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 3,
+    "phaseorder": 1,
+    "begin": 1501188119.0,
+    "duration": 309,
+    "d": 2,
+    "n": 10
+  },
+  {
+    "phaseid": "89ykytnu2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 3,
+    "phaseorder": 2,
+    "begin": 1501188729.0,
+    "duration": 50,
+    "d": 0,
+    "n": 10
+  },
+  {
+    "phaseid": "ef0hzbwg1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 4,
+    "phaseorder": 1,
+    "begin": 1501251511.0,
+    "duration": 312,
+    "d": 2,
+    "n": 10
+  },
+  {
+    "phaseid": "ef0hzbwg2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 4,
+    "phaseorder": 2,
+    "begin": 1501252211.0,
+    "duration": 26,
+    "d": 0,
+    "n": 10
+  },
+  {
+    "phaseid": "jrseoprn1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 5,
+    "phaseorder": 1,
+    "begin": 1502200606.0,
+    "duration": 327,
+    "d": 2,
+    "n": 10
+  },
+  {
+    "phaseid": "jrseoprn2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 5,
+    "phaseorder": 2,
+    "begin": 1502201250.0,
+    "duration": 31,
+    "d": 0,
+    "n": 10
+  },
+  {
+    "phaseid": "7tbi6mwd1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 6,
+    "phaseorder": 1,
+    "begin": 1502215071.0,
+    "duration": 306,
+    "d": 2,
+    "n": 10
+  },
+  {
+    "phaseid": "7tbi6mwd2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 6,
+    "phaseorder": 2,
+    "begin": 1502215580.0,
+    "duration": 37,
+    "d": 0,
+    "n": 10
+  },
+  {
+    "phaseid": "pzv22f481",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 7,
+    "phaseorder": 1,
+    "begin": 1502896286.0,
+    "duration": 307,
+    "d": 2,
+    "n": 10
+  },
+  {
+    "phaseid": "pzv22f482",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 7,
+    "phaseorder": 2,
+    "begin": 1502896921.0,
+    "duration": 43,
+    "d": 0,
+    "n": 10
+  },
+  {
+    "phaseid": "frec209s1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 8,
+    "phaseorder": 1,
+    "begin": 1502903151.0,
+    "duration": 306,
+    "d": 2,
+    "n": 10
+  },
+  {
+    "phaseid": "frec209s2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 8,
+    "phaseorder": 2,
+    "begin": 1502903752.0,
+    "duration": 56,
+    "d": 0,
+    "n": 10
+  },
+  {
+    "phaseid": "wzq3kfp91",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 9,
+    "phaseorder": 1,
+    "begin": 1502905088.0,
+    "duration": 317,
+    "d": 2,
+    "n": 10
+  },
+  {
+    "phaseid": "wzq3kfp92",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 9,
+    "phaseorder": 2,
+    "begin": 1502905873.0,
+    "duration": 23,
+    "d": 0,
+    "n": 10
+  },
+  {
+    "phaseid": "aab8cga31",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 10,
+    "phaseorder": 1,
+    "begin": 1502909512.0,
+    "duration": 307,
+    "d": 2,
+    "n": 10
+  },
+  {
+    "phaseid": "aab8cga32",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 10,
+    "phaseorder": 2,
+    "begin": 1502910133.0,
+    "duration": 23,
+    "d": 0,
+    "n": 10
+  },
+  {
+    "phaseid": "kfn4hfj71",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 11,
+    "phaseorder": 1,
+    "begin": 1503594687.0,
+    "duration": 312,
+    "d": 2,
+    "n": 5
+  },
+  {
+    "phaseid": "kfn4hfj72",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 11,
+    "phaseorder": 2,
+    "begin": 1503595372.0,
+    "duration": 33,
+    "d": 0,
+    "n": 5
+  },
+  {
+    "phaseid": "r7gyn3n41",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 12,
+    "phaseorder": 1,
+    "begin": 1503598159.0,
+    "duration": 307,
+    "d": 2,
+    "n": 5
+  },
+  {
+    "phaseid": "r7gyn3n42",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 12,
+    "phaseorder": 2,
+    "begin": 1503598842.0,
+    "duration": 34,
+    "d": 0,
+    "n": 5
+  },
+  {
+    "phaseid": "vjdla1q91",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 13,
+    "phaseorder": 1,
+    "begin": 1503685679.0,
+    "duration": 307,
+    "d": 2,
+    "n": 5
+  },
+  {
+    "phaseid": "vjdla1q92",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 13,
+    "phaseorder": 2,
+    "begin": 1503686384.0,
+    "duration": 50,
+    "d": 0,
+    "n": 5
+  },
+  {
+    "phaseid": "ehcc5wgj1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 14,
+    "phaseorder": 1,
+    "begin": 1504107364.0,
+    "duration": 305,
+    "d": 2,
+    "n": 5
+  },
+  {
+    "phaseid": "ehcc5wgj2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 14,
+    "phaseorder": 2,
+    "begin": 1504107891.0,
+    "duration": 29,
+    "d": 0,
+    "n": 5
+  },
+  {
+    "phaseid": "ub8pim6i1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 15,
+    "phaseorder": 1,
+    "begin": 1504189212.0,
+    "duration": 306,
+    "d": 2,
+    "n": 5
+  },
+  {
+    "phaseid": "ub8pim6i2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 15,
+    "phaseorder": 2,
+    "begin": 1504189783.0,
+    "duration": 28,
+    "d": 0,
+    "n": 5
+  },
+  {
+    "phaseid": "942arxyx1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 16,
+    "phaseorder": 1,
+    "begin": 1504189474.0,
+    "duration": 309,
+    "d": 2,
+    "n": 5
+  },
+  {
+    "phaseid": "942arxyx2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 16,
+    "phaseorder": 2,
+    "begin": 1504189973.0,
+    "duration": 11,
+    "d": 0,
+    "n": 5
+  },
+  {
+    "phaseid": "emwpven21",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 17,
+    "phaseorder": 1,
+    "begin": 1504192958.0,
+    "duration": 315,
+    "d": 2,
+    "n": 5
+  },
+  {
+    "phaseid": "emwpven22",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 17,
+    "phaseorder": 2,
+    "begin": 1504193652.0,
+    "duration": 39,
+    "d": 0,
+    "n": 5
+  },
+  {
+    "phaseid": "oi2esved1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 18,
+    "phaseorder": 1,
+    "begin": 1504214296.0,
+    "duration": 307,
+    "d": 2,
+    "n": 5
+  },
+  {
+    "phaseid": "oi2esved2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 18,
+    "phaseorder": 2,
+    "begin": 1504214985.0,
+    "duration": 38,
+    "d": 0,
+    "n": 5
+  },
+  {
+    "phaseid": "2m9rd2cp1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 19,
+    "phaseorder": 1,
+    "begin": 1504803799.0,
+    "duration": 327,
+    "d": 2,
+    "n": 20
+  },
+  {
+    "phaseid": "2m9rd2cp2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 19,
+    "phaseorder": 2,
+    "begin": 1504804563.0,
+    "duration": 44,
+    "d": 0,
+    "n": 20
+  },
+  {
+    "phaseid": "31f1vzlc1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 20,
+    "phaseorder": 1,
+    "begin": 1504881164.0,
+    "duration": 310,
+    "d": 2,
+    "n": 20
+  },
+  {
+    "phaseid": "31f1vzlc2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 20,
+    "phaseorder": 2,
+    "begin": 1504881829.0,
+    "duration": 53,
+    "d": 0,
+    "n": 20
+  },
+  {
+    "phaseid": "ya61mn6p1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 21,
+    "phaseorder": 1,
+    "begin": 1504889091.0,
+    "duration": 307,
+    "d": 2,
+    "n": 20
+  },
+  {
+    "phaseid": "ya61mn6p2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 21,
+    "phaseorder": 2,
+    "begin": 1504889678.0,
+    "duration": 33,
+    "d": 0,
+    "n": 20
+  },
+  {
+    "phaseid": "bquung7a1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 22,
+    "phaseorder": 1,
+    "begin": 1505155916.0,
+    "duration": 210,
+    "d": 2,
+    "n": 20
+  },
+  {
+    "phaseid": "bquung7a2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 22,
+    "phaseorder": 2,
+    "begin": 1505156531.0,
+    "duration": 50,
+    "d": 0,
+    "n": 20
+  },
+  {
+    "phaseid": "i0wkxelq1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 23,
+    "phaseorder": 1,
+    "begin": 1505237279.0,
+    "duration": 312,
+    "d": 2,
+    "n": 20
+  },
+  {
+    "phaseid": "i0wkxelq2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 23,
+    "phaseorder": 2,
+    "begin": 1505237939.0,
+    "duration": 33,
+    "d": 0,
+    "n": 20
+  },
+  {
+    "phaseid": "eu7tcyrg1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 24,
+    "phaseorder": 1,
+    "begin": 1505841827.0,
+    "duration": 323,
+    "d": 2,
+    "n": 20
+  },
+  {
+    "phaseid": "eu7tcyrg2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 24,
+    "phaseorder": 2,
+    "begin": 1505842589.0,
+    "duration": 51,
+    "d": 0,
+    "n": 20
+  },
+  {
+    "phaseid": "krab6ohp1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 25,
+    "phaseorder": 1,
+    "begin": 1506457072.0,
+    "duration": 324,
+    "d": 2,
+    "n": 20
+  },
+  {
+    "phaseid": "krab6ohp2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 25,
+    "phaseorder": 2,
+    "begin": 1506457796.0,
+    "duration": 32,
+    "d": 0,
+    "n": 20
+  },
+  {
+    "phaseid": "s14j5qtb1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 26,
+    "phaseorder": 1,
+    "begin": 1506965342.0,
+    "duration": 322,
+    "d": 2,
+    "n": 20
+  },
+  {
+    "phaseid": "s14j5qtb2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 26,
+    "phaseorder": 2,
+    "begin": 1506966195.0,
+    "duration": 72,
+    "d": 0,
+    "n": 20
+  },
+  {
+    "phaseid": "wc7b7s801",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 27,
+    "phaseorder": 1,
+    "begin": 1507051461.0,
+    "duration": 308,
+    "d": 2,
+    "n": 20
+  },
+  {
+    "phaseid": "wc7b7s802",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 27,
+    "phaseorder": 2,
+    "begin": 1507051991.0,
+    "duration": 15,
+    "d": 0,
+    "n": 20
+  },
+  {
+    "phaseid": "ltg4dv3d1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 28,
+    "phaseorder": 1,
+    "begin": 1508781190.0,
+    "duration": 325,
+    "d": 4,
+    "n": 15
+  },
+  {
+    "phaseid": "ltg4dv3d2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 28,
+    "phaseorder": 2,
+    "begin": 1508782094.0,
+    "duration": 42,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "oflc49un1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 29,
+    "phaseorder": 1,
+    "begin": 1508783497.0,
+    "duration": 309,
+    "d": 4,
+    "n": 15
+  },
+  {
+    "phaseid": "oflc49un2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 29,
+    "phaseorder": 2,
+    "begin": 1508784101.0,
+    "duration": 37,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "h504sxxm1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 30,
+    "phaseorder": 1,
+    "begin": 1508814456.0,
+    "duration": 327,
+    "d": 4,
+    "n": 15
+  },
+  {
+    "phaseid": "h504sxxm2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 30,
+    "phaseorder": 2,
+    "begin": 1508815259.0,
+    "duration": 65,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "odl6fbvj1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 31,
+    "phaseorder": 1,
+    "begin": 1508944361.0,
+    "duration": 314,
+    "d": 4,
+    "n": 15
+  },
+  {
+    "phaseid": "odl6fbvj2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 31,
+    "phaseorder": 2,
+    "begin": 1508945331.0,
+    "duration": 44,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "whxk45wo1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 32,
+    "phaseorder": 1,
+    "begin": 1509371712.0,
+    "duration": 323,
+    "d": 4,
+    "n": 15
+  },
+  {
+    "phaseid": "whxk45wo2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 32,
+    "phaseorder": 2,
+    "begin": 1509372382.0,
+    "duration": 59,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "g1ua1q1b1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 33,
+    "phaseorder": 1,
+    "begin": 1509378262.0,
+    "duration": 314,
+    "d": 4,
+    "n": 15
+  },
+  {
+    "phaseid": "g1ua1q1b2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 33,
+    "phaseorder": 2,
+    "begin": 1509378884.0,
+    "duration": 47,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "7otptmk21",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 34,
+    "phaseorder": 1,
+    "begin": 1509382162.0,
+    "duration": 321,
+    "d": 4,
+    "n": 15
+  },
+  {
+    "phaseid": "7otptmk22",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 34,
+    "phaseorder": 2,
+    "begin": 1509382851.0,
+    "duration": 75,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "624bh00r1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 35,
+    "phaseorder": 1,
+    "begin": 1509393925.0,
+    "duration": 310,
+    "d": 4,
+    "n": 15
+  },
+  {
+    "phaseid": "624bh00r2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 35,
+    "phaseorder": 2,
+    "begin": 1509394591.0,
+    "duration": 40,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "zt0854991",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 36,
+    "phaseorder": 1,
+    "begin": 1509458830.0,
+    "duration": 320,
+    "d": 4,
+    "n": 15
+  },
+  {
+    "phaseid": "zt0854992",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 36,
+    "phaseorder": 2,
+    "begin": 1509459481.0,
+    "duration": 34,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "nieeagox1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 37,
+    "phaseorder": 1,
+    "begin": 1509549366.0,
+    "duration": 305,
+    "d": 6,
+    "n": 15
+  },
+  {
+    "phaseid": "nieeagox2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 37,
+    "phaseorder": 2,
+    "begin": 1509550037.0,
+    "duration": 28,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "239cmkfa1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 38,
+    "phaseorder": 1,
+    "begin": 1509644599.0,
+    "duration": 307,
+    "d": 3,
+    "n": 15
+  },
+  {
+    "phaseid": "239cmkfa2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 38,
+    "phaseorder": 2,
+    "begin": 1509645227.0,
+    "duration": 38,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "x15ibc791",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 39,
+    "phaseorder": 1,
+    "begin": 1509985537.0,
+    "duration": 318,
+    "d": 8,
+    "n": 15
+  },
+  {
+    "phaseid": "x15ibc792",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 39,
+    "phaseorder": 2,
+    "begin": 1509986185.0,
+    "duration": 45,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "6i5z0oiv1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 40,
+    "phaseorder": 1,
+    "begin": 1509992595.0,
+    "duration": 307,
+    "d": 6,
+    "n": 15
+  },
+  {
+    "phaseid": "6i5z0oiv2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 40,
+    "phaseorder": 2,
+    "begin": 1509993269.0,
+    "duration": 26,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "xqx91tvj1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 41,
+    "phaseorder": 1,
+    "begin": 1510160853.0,
+    "duration": 316,
+    "d": 8,
+    "n": 15
+  },
+  {
+    "phaseid": "xqx91tvj2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 41,
+    "phaseorder": 2,
+    "begin": 1510161537.0,
+    "duration": 34,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "nz9iv9en1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 42,
+    "phaseorder": 1,
+    "begin": 1510163481.0,
+    "duration": 307,
+    "d": 6,
+    "n": 15
+  },
+  {
+    "phaseid": "nz9iv9en2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 42,
+    "phaseorder": 2,
+    "begin": 1510164016.0,
+    "duration": 46,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "0mv7j8p91",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 43,
+    "phaseorder": 1,
+    "begin": 1510239515.0,
+    "duration": 317,
+    "d": 5,
+    "n": 15
+  },
+  {
+    "phaseid": "0mv7j8p92",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 43,
+    "phaseorder": 2,
+    "begin": 1510240233.0,
+    "duration": 35,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "6lk8ipmc1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 44,
+    "phaseorder": 1,
+    "begin": 1510242935.0,
+    "duration": 308,
+    "d": 2,
+    "n": 15
+  },
+  {
+    "phaseid": "6lk8ipmc2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 44,
+    "phaseorder": 2,
+    "begin": 1510243535.0,
+    "duration": 24,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "ybcwk6k21",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 45,
+    "phaseorder": 1,
+    "begin": 1510332662.0,
+    "duration": 310,
+    "d": 8,
+    "n": 15
+  },
+  {
+    "phaseid": "ybcwk6k22",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 45,
+    "phaseorder": 2,
+    "begin": 1510333435.0,
+    "duration": 59,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "s4b2hm2f1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 46,
+    "phaseorder": 1,
+    "begin": 1510582498.0,
+    "duration": 321,
+    "d": 8,
+    "n": 15
+  },
+  {
+    "phaseid": "s4b2hm2f2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 46,
+    "phaseorder": 2,
+    "begin": 1510583150.0,
+    "duration": 60,
+    "d": 0,
+    "n": 15
+  },
+  {
+    "phaseid": "j8q7437i1",
+    "phasedescriptionid": "anagrams",
+    "experimentid": 47,
+    "phaseorder": 1,
+    "begin": 1510594688.0,
+    "duration": 307,
+    "d": 5,
+    "n": 15
+  },
+  {
+    "phaseid": "j8q7437i2",
+    "phasedescriptionid": "publicgoods",
+    "experimentid": 47,
+    "phaseorder": 2,
+    "begin": 1510595246.0,
+    "duration": 59,
+    "d": 0,
+    "n": 15
+  }
+]
