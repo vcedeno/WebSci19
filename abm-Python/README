@@ -1,15 +1,14 @@
-#src:
+To run execute run.all:
+python src/abm.py input.json
 
-
-#test
-Contains the output
+This calls abm.py that uses configuration file input.json. 
 
 #*.json
-Each file contains an experiment or simulation definition. This includes: 
+Each file contains a simulation definition. This includes: 
 
 -function definition
-*h1 for simulation
-*h2 for real experiments
+*h1 to execute simulation
+*h2 to compare real experiments and simulation
 -number of iterations
 -graph file definition
 -model for action selection (probability matrix file)
@@ -24,3 +23,8 @@ Each file contains an experiment or simulation definition. This includes:
 -experiment id
 -for each player specify id, corpus file, corpus name, vocabulary, aptitude in word, aptitude in letter request, type of behavior in replying to letter request and actual initial letters
 
+#src
+contains the abm code to run simulations
+
+#test
+contains the ouput files after running the abm.py code 
