@@ -1,0 +1,26 @@
+#src:
+
+
+#test
+Contains the output
+
+#*.json
+Each file contains an experiment or simulation definition. This includes: 
+
+-function definition
+*h1 for simulation
+*h2 for real experiments
+-number of iterations
+-graph file definition
+-model for action selection (probability matrix file)
+-word distribtuion file
+-letter request distribution file
+-fraction of letters to reply distribution file
+-times for letter reply distribution file
+-number of nodes
+-number of edges
+-game duration in seconds
+-seed value
+-experiment id
+-for each player specify id, corpus file, corpus name, vocabulary, aptitude in word, aptitude in letter request, type of behavior in replying to letter request and actual initial letters
+
