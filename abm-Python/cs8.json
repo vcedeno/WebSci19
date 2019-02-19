@@ -22,7 +22,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":3,
-        			"aptitudeLetterRequest":3,
+        			"aptitudeLetterRequest":4,
         			"letterReplyType":"FB",
         			"initialLetters":"bat"
       			},
@@ -32,7 +32,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":3,
-        			"aptitudeLetterRequest":3,
+        			"aptitudeLetterRequest":4,
         			"letterReplyType":"FB",
         			"initialLetters":"men"
       			},
@@ -42,7 +42,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":3,
-        			"aptitudeLetterRequest":3,
+        			"aptitudeLetterRequest":4,
         			"letterReplyType":"FB",
         			"initialLetters":"lut"
       			},
@@ -52,7 +52,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":3,
-        			"aptitudeLetterRequest":3,
+        			"aptitudeLetterRequest":4,
         			"letterReplyType":"FB",
         			"initialLetters":"sop"
       			},
@@ -62,7 +62,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":3,
-        			"aptitudeLetterRequest":3,
+        			"aptitudeLetterRequest":4,
         			"letterReplyType":"FB",
         			"initialLetters":"hug"
       			},
@@ -72,7 +72,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":3,
-        			"aptitudeLetterRequest":3,
+        			"aptitudeLetterRequest":4,
         			"letterReplyType":"FB",
         			"initialLetters":"rie"
       			}

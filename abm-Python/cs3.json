@@ -23,7 +23,7 @@
         			"vocabulary":5000,
         			"aptitudeWord":2,
         			"aptitudeLetterRequest":2,
-        			"letterReplyType":"NFB",
+        			"letterReplyType":"FB",
         			"initialLetters":"bat"
       			},
         		{
@@ -33,7 +33,7 @@
         			"vocabulary":5000,
         			"aptitudeWord":2,
         			"aptitudeLetterRequest":2,
-        			"letterReplyType":"NFB",
+        			"letterReplyType":"FB",
         			"initialLetters":"men"
       			},
         		{
@@ -43,7 +43,7 @@
         			"vocabulary":5000,
         			"aptitudeWord":2,
         			"aptitudeLetterRequest":2,
-        			"letterReplyType":"NFB",
+        			"letterReplyType":"FB",
         			"initialLetters":"lut"
       			},
         		{
@@ -53,7 +53,7 @@
         			"vocabulary":5000,
         			"aptitudeWord":2,
         			"aptitudeLetterRequest":2,
-        			"letterReplyType":"NFB",
+        			"letterReplyType":"FB",
         			"initialLetters":"sop"
       			},
         		{
@@ -63,7 +63,7 @@
         			"vocabulary":5000,
         			"aptitudeWord":2,
         			"aptitudeLetterRequest":2,
-        			"letterReplyType":"NFB",
+        			"letterReplyType":"FB",
         			"initialLetters":"hug"
       			},
         		{
@@ -73,7 +73,7 @@
         			"vocabulary":5000,
         			"aptitudeWord":2,
         			"aptitudeLetterRequest":2,
-        			"letterReplyType":"NFB",
+        			"letterReplyType":"FB",
         			"initialLetters":"rie"
       			}
       			]		

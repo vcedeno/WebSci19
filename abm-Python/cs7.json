@@ -3,7 +3,7 @@
         [
       		{
        			"function": "h1",
-       			"iteration": 30,
+       			"iteration": 1,
        			"graphfile": "/src/h1/graphs/experiments/cs1to6.txt",
        			"beta": "/src/h1/parameters/dynamick2.txt",
        			"word_dist": "/src/h1/distributions/prob_word.csv",
@@ -21,9 +21,9 @@
         			"corpus":"/src/h1/parameters/5k.txt",
         			"corpus_name":"5k",
         			"vocabulary":5000,
-        			"aptitudeWord":2,
-        			"aptitudeLetterRequest":2,
-        			"letterReplyType":"FB",
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
         			"initialLetters":"bat"
       			},
         		{
@@ -31,9 +31,9 @@
         			"corpus":"/src/h1/parameters/5k.txt",
         			"corpus_name":"5k",
         			"vocabulary":5000,
-        			"aptitudeWord":2,
-        			"aptitudeLetterRequest":2,
-        			"letterReplyType":"FB",
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
         			"initialLetters":"men"
       			},
         		{
@@ -41,9 +41,9 @@
         			"corpus":"/src/h1/parameters/5k.txt",
         			"corpus_name":"5k",
         			"vocabulary":5000,
-        			"aptitudeWord":2,
-        			"aptitudeLetterRequest":2,
-        			"letterReplyType":"FB",
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
         			"initialLetters":"lut"
       			},
         		{
@@ -51,9 +51,9 @@
         			"corpus":"/src/h1/parameters/5k.txt",
         			"corpus_name":"5k",
         			"vocabulary":5000,
-        			"aptitudeWord":2,
-        			"aptitudeLetterRequest":2,
-        			"letterReplyType":"FB",
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
         			"initialLetters":"sop"
       			},
         		{
@@ -61,9 +61,9 @@
         			"corpus":"/src/h1/parameters/5k.txt",
         			"corpus_name":"5k",
         			"vocabulary":5000,
-        			"aptitudeWord":2,
-        			"aptitudeLetterRequest":2,
-        			"letterReplyType":"FB",
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
         			"initialLetters":"hug"
       			},
         		{
@@ -71,9 +71,9 @@
         			"corpus":"/src/h1/parameters/5k.txt",
         			"corpus_name":"5k",
         			"vocabulary":5000,
-        			"aptitudeWord":2,
-        			"aptitudeLetterRequest":2,
-        			"letterReplyType":"FB",
+        			"aptitudeWord":4,
+        			"aptitudeLetterRequest":4,
+        			"letterReplyType":"NR",
         			"initialLetters":"rie"
       			}
       			]		

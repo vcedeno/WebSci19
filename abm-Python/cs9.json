@@ -17,12 +17,12 @@
         		"experiment_id":"cs9",
         		"players": [
       			{
-      				"agent_id":0,
+      				"agents_id":0,
         			"corpus":"/src/h1/parameters/5k.txt",
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":4,
-        			"aptitudeLetterRequest":4,
+        			"aptitudeLetterRequest":3,
         			"letterReplyType":"FB",
         			"initialLetters":"bat"
       			},
@@ -32,7 +32,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":4,
-        			"aptitudeLetterRequest":4,
+        			"aptitudeLetterRequest":3,
         			"letterReplyType":"FB",
         			"initialLetters":"men"
       			},
@@ -42,7 +42,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":4,
-        			"aptitudeLetterRequest":4,
+        			"aptitudeLetterRequest":3,
         			"letterReplyType":"FB",
         			"initialLetters":"lut"
       			},
@@ -52,7 +52,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":4,
-        			"aptitudeLetterRequest":4,
+        			"aptitudeLetterRequest":3,
         			"letterReplyType":"FB",
         			"initialLetters":"sop"
       			},
@@ -62,7 +62,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":4,
-        			"aptitudeLetterRequest":4,
+        			"aptitudeLetterRequest":3,
         			"letterReplyType":"FB",
         			"initialLetters":"hug"
       			},
@@ -72,7 +72,7 @@
         			"corpus_name":"5k",
         			"vocabulary":5000,
         			"aptitudeWord":4,
-        			"aptitudeLetterRequest":4,
+        			"aptitudeLetterRequest":3,
         			"letterReplyType":"FB",
         			"initialLetters":"rie"
       			}
